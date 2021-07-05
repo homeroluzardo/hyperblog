@@ -1,10 +1,14 @@
-body {
+.cuerpo {
   text-align: center;
   color: blue;
 }
 
-body .lorem {
+.cuerpo .lorem {
   color: black;
   padding-left: 20%;
   padding-right: 20%;
+}
+
+.cuerpo h1 {
+  margin-top: 5%;
 }
