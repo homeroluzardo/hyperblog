@@ -2,3 +2,11 @@
   text-align: center;
   color: blue;
 }
+
+.cuerpo h1 {
+  margin-top: 5%;
+}
+
+.cabecera h1 {
+  background: yellow;
+}
