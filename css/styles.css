@@ -2,3 +2,9 @@ body {
   text-align: center;
   color: blue;
 }
+
+body .lorem {
+  color: black;
+  padding-left: 20%;
+  padding-right: 20%;
+}
